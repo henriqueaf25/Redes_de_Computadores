@@ -1,6 +1,6 @@
 # Redes de Computadores
 Versão usada: [Python 3.8.8](https://www.python.org/downloads/release/python-388/).  
-Para iniciar a aplicação é necessário primeiro rodar o servidor e apenas depois o client.  
+Para iniciar a aplicação é necessário primeiro rodar o servidor e depois o client.  
 ## Inicializando o servidor
 No diretório ```src```, use o comando:
 ```
